@@ -3,12 +3,13 @@
 
 
 ## 文件结构
-├─data //测试数据 <br>
-│<br>
-└─src //源代码<br>
-    │  greedy_algorithm.py //贪心算法策略1<br>
-    │  greedy_algorithm2.py //贪心算法策略2<br>
-    │  load_data.py // 文件读取，数据加载<br>
-    │  local_search_algorithm.py //局部搜索算法<br>
-    └─ main.py //测试程序<br>
-    
+```
+├─data //测试数据 
+│
+└─src //源代码
+    │  greedy_algorithm.py //贪心算法策略1
+    │  greedy_algorithm2.py //贪心算法策略2
+    │  load_data.py // 文件读取，数据加载
+    │  local_search_algorithm.py //局部搜索算法
+    └─ main.py //测试程序
+```
