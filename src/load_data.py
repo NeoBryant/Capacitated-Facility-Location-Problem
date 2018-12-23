@@ -80,23 +80,4 @@ def load_data(num):
 
 if __name__ == "__main__":
     init_data()
-    #load_data(2)
-    '''for i in range(1, 72):
-        print("----------------p"+str(i))
-        n, m, capacity, open_cost, demand, assignment_cost = load_data(i)
-        print("n:", n)
-        print("m:", m)
-        print("capacity:", capacity)
-        print("open_cost:", open_cost)
-        print("demand:", demand)
-        print("assignment_cost:", assignment_cost)
-    '''
-
-    '''n, m, capacity, open_cost, demand, assignment_cost = load_data(22)
-    print("n:", n)
-    print("m:", m)
-    print("capacity:", capacity)
-    print("open_cost:", open_cost)
-    print("demand:", demand)
-    print("assignment_cost:", assignment_cost)'''
     
